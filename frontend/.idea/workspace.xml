@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ee2f1ad-6d87-49c7-983d-52b1fc76ba1a" name="Changes" comment="issues fixing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PMhcNFrNTf5nqfDfduVqlUfQEb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/af/client" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\Janith IT\Assigments\PAF007\frontend\meal-drop-frontend\node_modules\prettier" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ee2f1ad-6d87-49c7-983d-52b1fc76ba1a" name="Changes" comment="" />
+      <created>1683272936970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683272936970</updated>
+      <workItem from="1683272938348" duration="23318000" />
+      <workItem from="1683365042708" duration="87000" />
+      <workItem from="1683831484409" duration="348000" />
+      <workItem from="1683913773884" duration="3390000" />
+      <workItem from="1684046262650" duration="618000" />
+      <workItem from="1684177574831" duration="2290000" />
+      <workItem from="1684439800520" duration="3507000" />
+      <workItem from="1684493418952" duration="68000" />
+      <workItem from="1684495488096" duration="1294000" />
+      <workItem from="1684502250656" duration="150000" />
+      <workItem from="1684502413390" duration="1082000" />
+      <workItem from="1684503517640" duration="30036000" />
+    </task>
+    <task id="LOCAL-00001" summary="add user delete function">
+      <created>1683310604374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683310604374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add user delete function">
+      <created>1684514667067</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684514667067</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add validations">
+      <created>1684520995190</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684520995190</updated>
+    </task>
+    <task id="LOCAL-00004" summary="issues fixing">
+      <created>1684531517892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684531517892</updated>
+    </task>
+    <task id="LOCAL-00005" summary="issues fixing">
+      <created>1684534256895</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684534256895</updated>
+    </task>
+    <task id="LOCAL-00006" summary="issues fixing">
+      <created>1684557437142</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684557437142</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add user delete function" />
+    <MESSAGE value="add validations" />
+    <MESSAGE value="issues fixing" />
+    <option name="LAST_COMMIT_MESSAGE" value="issues fixing" />
+  </component>
+</project>
